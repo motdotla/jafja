@@ -1,4 +1,4 @@
-/*! jafja.js - 0.0.1 - 2014-09-29 - mot */
+/*! jafja.js - 0.0.1 - 2014-09-30 - mot */
 var MicroEvent  = function(){};
 MicroEvent.prototype  = {
   bind  : function(event, fct){
